@@ -1,7 +1,5 @@
 無碼,#genre#
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-公视,http://108.181.20.197/livehttpplay?channel_id=20087
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
@@ -69,3 +67,264 @@ pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
 pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
 pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+其它,#genre#
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+测试视频 7.1.4 12声道,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
+春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+春晚1987,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+春晚1988,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+春晚1989,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+春晚1994,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+春晚1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+春晚1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+春晚2000,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+春晚2001,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+春晚2002,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+春晚2003,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+春晚2004,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+春晚2005,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+春晚2006,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+春晚2007,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+春晚2008,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+春晚2009,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+春晚2010,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+春晚2011,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+春晚2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+春晚2014,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+春晚2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+春晚2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+春晚2018,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+CCTV-4,https://piccpndks.v.kcdnvip.com/audio/cctv4_2/index.m3u8?playHost=piccpndks.v.kcdnvip.com
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+咪咕直播4K ⅠIPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播4K ⅡIPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播 𝟝IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播 𝟞IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播 𝟟IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播 𝟠IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播 𝟡IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟘IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟙IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟚IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟛IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟜IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟝IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟞IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟟IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟠IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟡IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟘IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟙IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟚IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟛IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟜IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟝IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟞IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟟IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟠IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟡IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟘IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟙IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟚IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟛IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟜IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟝IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟞IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟟IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟠IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟡IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝟘IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝟙IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝟚IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝟛IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝟜IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝟝IPV4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=YanG-1989
+CCTV-兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
+CCTV-风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+CCTV-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+TVB明珠台,http://bziyunshao.synology.me:8890/bysid/2
+TVBJ2,http://bziyunshao.synology.me:8890/bysid/82
+三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+人间卫视,https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+西游记后传,http://jiaojirentv.top/2020/yy.php?id=1353392400
+武术世界,http://111.61.236.247:9081/hls/60/index.m3u8
+文物宝库,http://111.61.236.247:9081/hls/64/index.m3u8
+江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
+江苏综艺,https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
+江苏影视,https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
+江苏教育,https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
+江苏体育休闲,https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
+1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+2008年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+2011年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+2017年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+2022年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
+Fox LiveNow,https://jmp2.uk/sam-USBA300024TN.m3u8
+CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
+Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+RT News（英语国际）,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Español（西语）,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+RT Français（法语）,https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
+RT Arabic（阿语）,https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+RT DE（德语）,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+RT Documentary（英语纪录）,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+欧美大片,http://jiaojirentv.top/2020/dy.php?id=2793084
+西游记续集,http://jiaojirentv.top/2020/dy.php?id=3113309
+CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江好易购,http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江浙江之声,http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
+浙江新闻广播,http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
+浙江广播经济,http://ali-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
+浙江民生资讯,http://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+浙江音乐调频,http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
+浙江交通之声,http://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
+浙江旅游之声,http://ali-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
+浙江城市之声,http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
+杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+广州电视台综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州电视台新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
+广州电视台法治频道,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
+广州电视台法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
+广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+广州竞赛频道,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
+倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+Loupe 4K视觉,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+龙华电影,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
+新三国（备用）,http://live.metshop.top/huya/11352944
+三国演义,http://live.metshop.top/huya/11602081
+倚天屠龙记,http://live.metshop.top/huya/11342403
+铁齿铜牙纪晓岚,http://live.metshop.top/huya/11342396
+亮剑,http://live.metshop.top/huya/30080238
+士兵突击,http://live.metshop.top/huya/11342430
+康熙王朝,http://live.metshop.top/huya/11352940
+鬼吹灯之精绝古城,http://live.metshop.top/huya/11352871
+鬼吹灯之怒晴湘西,http://live.metshop.top/huya/11602075
+鬼吹灯之龙岭迷窟,http://live.metshop.top/huya/29465863
+鬼吹灯之云南虫谷,http://live.metshop.top/huya/11352898
+笑傲江湖,http://live.metshop.top/huya/26355790
+神雕侠侣,http://live.metshop.top/huya/11352964
+雪豹,http://live.metshop.top/huya/29580970
+陈情令,http://live.metshop.top/huya/29465862
+新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+TVB翡翠台 4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+CGNT 记录频道,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+CCTV-5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
+CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1_td.m3u8
+TVB翡翠台（备用）,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
+西游记续集,http://zzy789.xyz/douyu1.php?id=3113309
+CGNT 记录频道,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGNT 新闻频道,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+可乐影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+神乐影剧,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
+新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
+乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
+利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+CCTV-16,http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
+CCTV-4K,http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
+台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+CCTV-4K,https://stream1.freetv.fun/cctv4k-2.ctv
+澳视澳门,https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
+澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
+TVB J1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
+TVB J2,https://stream1.freetv.fun/tvb-j2-2.ctv
+TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB翡翠台 4K,https://stream1.freetv.fun/fei-cui-8.m3u8
+TVB Plus（备用）,https://stream1.freetv.fun/tvb-plus-9.m3u8
+CCTV-4K,https://stream1.freetv.fun/cctv4k-4.m3u8
+CCTV-4K,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
+CCTV-8,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
